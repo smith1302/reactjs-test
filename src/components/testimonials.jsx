@@ -33,7 +33,6 @@ export default class testimonials extends React.Component {
 
 	constructor(props) {
 		super(props);
-		this.showNextTestimonial = this.showNextTestimonial.bind(this);
 		this.tick = this.tick.bind(this);
 	}
 
