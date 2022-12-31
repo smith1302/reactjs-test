@@ -6,7 +6,7 @@
     "node-sass": "^4.12.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "0.9.x",
+    "react-scripts": "5.0.x",
     "react-transition-group": "^4.3.0"
   },
   "devDependencies": {},
